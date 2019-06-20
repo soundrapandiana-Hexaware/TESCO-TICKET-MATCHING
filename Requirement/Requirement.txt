@@ -1,0 +1,4 @@
+Tesco is retail based.
+A month of tesco's ticket data is shared. Both raw files and mapping the tickets with subcategories are given.
+We need to identify which sub category each ticket belongs to based on the ticket subject.
+We have to automate the sub categorization using machine learning techniques.
